@@ -6,8 +6,8 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ScoreTable
+  m_Name: Blitz
   m_Controller: {fileID: 9100000, guid: aac5c26fe1f334f4ea8ee6027fcef4c8, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 6eab0673fb6afb546932bb79642363ee, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: c88a265d7a6c54449a339299af0bff09, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b9780a937ae194042b86bfd016a43232, type: 2}

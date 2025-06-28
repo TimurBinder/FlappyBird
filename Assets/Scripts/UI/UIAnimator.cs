@@ -12,7 +12,7 @@ public class UIAnimator : MonoBehaviour
         _animator = GetComponent<Animator>();
     }
 
-    public void RunShowTrigger()
+    public virtual void RunShowTrigger()
     {
         _animator.SetTrigger(Show);
     }
